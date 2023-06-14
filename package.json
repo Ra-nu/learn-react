@@ -1,0 +1,31 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "I am learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ra-nu/learn-react.git"
+  },
+  "keywords": [],
+  "author": "Ranu Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ra-nu/learn-react/issues"
+  },
+  "homepage": "https://github.com/Ra-nu/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
