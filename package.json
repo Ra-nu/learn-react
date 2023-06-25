@@ -2,8 +2,10 @@
   "name": "learnreact",
   "version": "1.0.0",
   "description": "I am learning react",
-  "main": "App.js",
+ 
   "scripts": {
+    "start": "parcel index.html",         
+    "build": "parcel build index.html",  
     "test": "jest"
   },
   "repository": {

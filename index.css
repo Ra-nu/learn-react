@@ -1,11 +1,16 @@
 #heading{
-    color: blanchedalmond;
-
-}
+    color: blueviolet
+} 
 
 #parent{
 
     color:aqua;
     font-weight: bold;
     font-size: larger;
+}
+
+#jsxHeading{
+
+        color: blanchedalmond;
+
 }
